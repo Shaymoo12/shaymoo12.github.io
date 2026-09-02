@@ -10,7 +10,9 @@ Will do! Linked below is a YouTube video I remember viewing around the time it w
 
 If you'd like to learn more about Kulning, read [this informational article.]([url](https://folklife.si.edu/magazine/kulning-swedish-herding-calls)) 
 
-[<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/flickr/54615640844/in/photolist-2rzvXmN-2rdcrf5-2qvbfWu" title="Protecting our National Parks"><img src="https://live.staticflickr.com/65535/54615640844_1399e06567_h.jpg" width="1600" height="636" alt="Protecting our National Parks"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]
+[<a data-flickr-embed="true" href="https://www.flickr.com/photos/flickr/54615640844/in/photolist-2rzvXmN-2rdcrf5-2qvbfWu" title="Protecting our National Parks"><img src="https://live.staticflickr.com/65535/54615640844_1399e06567_h.jpg" width="1600" height="636" alt="Protecting our National Parks"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]
+
+
 [^1]: the beliefs, customs, arts, etc. of a particular social group, place, or time. Source: [Merriam-Webster](https://www.merriam-webster.com/dictionary/culture.)
 [^2]: an established or customary pattern of thought, action, or behavior. Source: [Merriam-Webster](https://www.merriam-webster.com/dictionary/heritage)
 [^3]: Cultural heritage refers to the legacy of physical artifacts, traditions, and practices that are passed down through generations within a community. It encompasses both tangible elements, such as monuments and artworks, and intangible aspects like folklore and rituals. Source: [Unesco](https://www.unesco.org/en/query-list/c/cultural-heritage)
