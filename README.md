@@ -4,7 +4,7 @@ Does _culture_[^1] have a sound? Does _heritage_[^2] have a voice? If you're not
 ### Give me an Example
 Will do! Linked below is a YouTube video I remember viewing around the time it was posted in 2016. Ever since, I've been amazed by kulning (exemplified in the video) and other traditional songs or music born from labor, oppression, spiritual praise, etc.. The ability to produce music for the most basic or complex of needs is one of my favorite traits of humankind. No matter the weight of reason, the sounds that cultural heritage produce are never meaningless. 
 
-[<iframe width="867" height="488" src="https://www.youtube.com/embed/KvtT3UyhibQ" title="Kulning - Ancient Swedish herdingcall" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
+
 
 
 
